@@ -140,5 +140,12 @@ C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\bin\Debug\netcoreapp3.1\ru\Mic
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\ASPVocTrain.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\ASPVocTrain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
