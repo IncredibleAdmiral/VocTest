@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ASPVocTrain.Models;
 using ASPVocTrain.Models.BaseModel.Auth;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,7 +30,12 @@ namespace ASPVocTrain
             services.AddDbContext<ApplicationContext>(options =>
                  options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddIdentity<User, IdentityRole>()
+            services.AddTransient<IPasswordValidator<User>,
+            CustomPasswordValidator>(options => new CustomPasswordValidator(6));
+
+            services.AddIdentity<User, IdentityRole>(options => {
+                options.Password.RequireNonAlphanumeric = false;
+            })
                 .AddEntityFrameworkStores<ApplicationContext>();
 
             services.AddControllersWithViews();

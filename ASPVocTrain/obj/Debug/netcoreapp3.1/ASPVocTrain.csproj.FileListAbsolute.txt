@@ -152,3 +152,4 @@ C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
 C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Gsu\source\repos\ASPVocTrain\ASPVocTrain\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
